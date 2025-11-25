@@ -11,15 +11,6 @@
 
 - ⚡ Fun fact: I'm an Apple enthusiast, aiming to expand my skills by learning Swift in the near future.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/helenzina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="helen-zina-76bab42ab" height="30" width="40" /></a>
-<a href="https://fb.com/helen1z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="helen1z" height="30" width="40" /></a>
-<a href="https://instagram.com/_zhnae_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_zhnae_" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">For all my other links, check out my <a href="https://linktr.ee/helenzina" target="blank">Linktree</a>.</h3>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
   <a href="https://developers.google.com/optimization" target="_blank" rel="noreferrer"> <img src="https://developers.google.com/static/optimization/images/orLogo_72.png" alt="ortools" width="40" height="40"/> </a>
